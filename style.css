@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos generales */
+
+.section-azul {
+    background-color: #BCE4F7 ;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.4rem;
+    
+    background-color: #BCE4F7;
+    height: 55px;
+}
+
+.header-nav a {
+    color: #111;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.logo {
+    width: 150px;
+    position:absolute;
+    top: 1px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.header-social a {
+    padding: 10px;
+    color: #111;
+}
+
+/* Hero img */
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/hero-img.jpg');
+    background-size: cover;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.hero-text {
+    text-transform: uppercase;    
+}
+
+.hero-text h1 {
+    font-size: 3rem
+}
+
+.hero-text p {
+    font-size: 2rem
+}
+
+.hero-text i {
+    color: whitesmoke;
+    margin: 10px;
+    font-size: 2rem
+}
