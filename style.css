@@ -129,6 +129,10 @@ header {
     color: #302f2f;
 }
 
+.responsive-nav {
+    display: none;
+}
+
 /* Hero img */
 
 .hero-section {
@@ -295,9 +299,9 @@ footer p {
 
 /* Responsive */
 
-.responsive-nav {
+/* .responsive-nav {
     display: none;
-}
+} */
 
 
 
@@ -320,10 +324,7 @@ footer p {
     }    
 }
 
-@media (max-width: 992px) {
-    .responsive-nav {
-        display: block;
-    }    
+@media (max-width: 992px) {    
 
     header {
         height: 70px;
@@ -341,7 +342,7 @@ footer p {
     }
 
     .responsive-nav {
-       
+        display: block;
         text-align: center;
         font-size: 1.8rem;
     }   
