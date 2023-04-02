@@ -85,7 +85,8 @@ header {
     align-items: center;
     font-size: 1.4rem;
     padding: 20px;
-    background-color: #BCE4F7;
+    /* background-color: #BCE4F7; */
+    background-color: whitesmoke;
     height: 55px;
     position: fixed;
     top: 0;
