@@ -6,4 +6,4 @@
 * __Linkedin__: [https://www.linkedin.com/in/carlosmorenomartindev/](https://www.linkedin.com/in/carlosmorenomartindev/)
 * __Email__: [carlosmorenomartindev@gmail.com](contacto@carlosmorenomartin.dev)
 * __Web__: [https://carlosmorenodev.github.io/carlosmorenodev/](https://carlosmorenodev.github.io/carlosmorenodev/)
-* __Web__: [https://carlosmorenomartin.dev](https://carlosmorenomartin.dev)
+* __Web__: [https://www.carlosmorenomartin.dev](https://www.carlosmorenomartin.dev)
