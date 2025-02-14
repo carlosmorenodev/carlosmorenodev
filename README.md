@@ -9,7 +9,7 @@
 * __Web__: [https://www.carlosmorenomartin.dev](https://www.carlosmorenomartin.dev)
 
 
-<h2 align="left">Hi 👋! Me llamo Carlos Moreno</h2>
+<h2 align="left">Hola 👋! Me llamo Carlos Moreno</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://avatars.githubusercontent.com/u/129055322?v=4)"  />
 
 ###
 
