@@ -1,0 +1,14 @@
+.aboutme {
+    background-color: #0f172a;
+    color: white;
+    padding-block: 6rem;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    & p {
+        width: 1000px;
+        margin: auto;
+        font-size: 1.5rem;
+    }
+}
