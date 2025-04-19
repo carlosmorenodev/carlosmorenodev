@@ -3,7 +3,7 @@ import styles from './Footer.module.css'
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className={styles.footer}>
       <p>&copy; 2025 Carlos Moreno Martín. Todos los derechos reservados.</p>
     </footer>
   )
