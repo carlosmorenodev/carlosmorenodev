@@ -1,38 +1,3 @@
-/* import React, { useState } from 'react';
-import { NavLink } from 'react-router-dom';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin, faTwitter } from '@fortawesome/free-brands-svg-icons';
-import styles from './Header.module.css';
-
-const Header = () => {
-
-  return (
-    <header className={styles.header}>
-      <div className={styles.logo}><span>&lt;</span>Cmm <span>/&gt;</span> </div>
-
-      <nav className={styles.nav}>
-        <a href="#inicio">Inicio</a>
-        <a href="#sobremi">Sobre mí</a>
-        <a href="#projects">Proyectos</a>
-      </nav>
-
-      <div className={styles.socials}>
-        <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-          <FontAwesomeIcon icon={faGithub} />
-        </a>
-        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-          <FontAwesomeIcon icon={faLinkedin} />
-        </a>
-        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-          <FontAwesomeIcon icon={faTwitter} />
-        </a>
-      </div>
-    </header>
-  );
-};
-
-export default Header; */
-
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faTwitter } from '@fortawesome/free-brands-svg-icons';

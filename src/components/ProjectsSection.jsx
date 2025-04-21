@@ -37,7 +37,6 @@ const Filtro2 = () => {
         <>
             <section className={styles.projects} id='projects'>
 
-                {/* <h2 className={styles.projectTitle}>Proyectos</h2> */}
                 <div className={styles.projectsButtons}>
                     <button onClick={() => setActiveFilter('all')}>All</button>
                     <button onClick={() => setActiveFilter('javascript')}>Javascript</button>
@@ -46,13 +45,7 @@ const Filtro2 = () => {
                 </div>
 
                 <div className={styles.projectWrapper}>
-                    {/* Botones para cambiar el filtro */}
-                    {/* <div className={styles.projectsButtons}>
-                            <button onClick={() => setActiveFilter('all')}>All</button>
-                            <button onClick={() => setActiveFilter('javascript')}>Javascript</button>
-                            <button onClick={() => setActiveFilter('react')}>React</button>
-                            <button onClick={() => setActiveFilter('astro')}>Astro</button>
-                        </div> */}
+
 
                     {/* Mostrar las secciones filtradas */}
                     <div className={styles.projectsContainer}>
