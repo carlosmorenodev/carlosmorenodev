@@ -15,6 +15,7 @@ const skills = [
     'PHP',
     'MySQL',
     'Wordpress',
+    'Elementor'
 ];
 
 
