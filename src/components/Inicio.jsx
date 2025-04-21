@@ -33,7 +33,7 @@ const Inicio = () => {
                     Desarrollador Frontend enfocado en crear experiencias web modernas, accesibles y visualmente atractivas.
                 </p>
                 <div className={styles.heroButtons}>
-                    <a href="/curriculum-carlos-moreno.pdf" target="_blank" className={styles.ctaBtn}>Descargar Curriculum</a>
+                    <a href="/carlosmorenodev/curriculum-carlos-moreno.pdf" target="_blank" className={styles.ctaBtn}>Descargar Curriculum</a>
                     <a href="mailto: carlosmorenomartindev@gmail.com" className={styles.ctaBtn}>carlosmorenomartindev@gmail.com</a>
                 </div>
 
