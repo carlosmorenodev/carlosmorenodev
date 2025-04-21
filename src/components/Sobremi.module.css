@@ -1,7 +1,7 @@
 .aboutme {
     background-color: #0f172a;
     color: white;
-    padding-block: 6rem;
+    /* padding-block: 6rem; */
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -9,12 +9,27 @@
 
     & .aboutmetext {
         max-width: 1000px;
-        padding: 10px;
+
+        /* padding: 20px; */
         & p {
-           /*  width: 1000px; */
+            /*  width: 1000px; */
             margin: auto;
             font-size: 1.5rem;
         }
     }
 
+}
+
+@media (max-width: 768px) {
+    .aboutme {
+        padding-block: 1rem;
+        
+    }
+
+    .aboutmetext {
+        & p {
+            
+            padding: 20px;
+        }
+    }
 }

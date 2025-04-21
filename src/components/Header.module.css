@@ -164,6 +164,10 @@
   .socials a:hover {
     color: #3b82f6;
   }
+
+  .socialsMobile {
+    display: none;
+  }
   
   /* Responsive */
   @media (max-width: 768px) {

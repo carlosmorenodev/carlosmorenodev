@@ -67,7 +67,7 @@ const Header = () => {
           <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faTwitter} />
           </a>
-        </div>
+        </div> 
       </nav>
 
       {/* Redes sociales en escritorio */}
