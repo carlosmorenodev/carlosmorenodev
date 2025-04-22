@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin, faTwitter } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faLinkedin, faCodepen } from '@fortawesome/free-brands-svg-icons';
 import { faBars, faTimes, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import styles from './Header.module.css';
 
@@ -29,6 +29,9 @@ const Header = () => {
           <a href="https://www.linkedin.com/in/carlosmorenomartindev/" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
+          <a href="https://codepen.io/carlosmmdev" target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon icon={faCodepen} />
+          </a>
           <a key="email" href="mailto:tu_correo@ejemplo.com"> {/* Enlace para enviar un correo */}
             <FontAwesomeIcon icon={faEnvelope} />
           </a>
@@ -43,7 +46,9 @@ const Header = () => {
         <a href="https://www.linkedin.com/in/carlosmorenomartindev/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
-
+        <a href="https://codepen.io/carlosmmdev" target="_blank" rel="noopener noreferrer">
+          <FontAwesomeIcon icon={faCodepen} />
+        </a>
 
         <a key="email" href="mailto:carlosmorenomartindev@gmail.com"> {/* Enlace para enviar un correo */}
           <FontAwesomeIcon icon={faEnvelope} />
