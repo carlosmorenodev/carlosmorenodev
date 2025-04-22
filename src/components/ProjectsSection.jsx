@@ -87,7 +87,7 @@ const Filtro2 = () => {
                         )}
                     </div>
 
-                    <a className={styles.seeMoreButton} href="#">Ver más en Github</a>
+                    <a className={styles.seeMoreButton} href="https://github.com/carlosmorenodev?tab=repositories" target='_blank'>Ver más en Github</a>
                 </div>
 
             </section >
