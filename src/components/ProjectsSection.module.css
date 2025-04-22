@@ -124,3 +124,18 @@
   color: #3b82f6;
   transform: scale(1.2);
 }
+
+.seeMoreButton {
+  background-color: #3b82f6;
+  padding: 10px 15px;
+  Margin-top: 20px;
+  text-decoration: none;
+  color: white;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    background-color: #334155;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(59, 130, 246, 0.3);
+  }
+}

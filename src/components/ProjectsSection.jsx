@@ -87,8 +87,8 @@ const Filtro2 = () => {
                         )}
                     </div>
 
+                    <a className={styles.seeMoreButton} href="#">Ver más en Github</a>
                 </div>
-
 
             </section >
 
