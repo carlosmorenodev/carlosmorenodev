@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import React from 'react'
 
+import { sections } from '../projects.js';
+
 import styles from './ProjectsSection.module.css'
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -14,14 +16,15 @@ const Filtro2 = () => {
 
 
     // Datos de las secciones
-    const sections = [
-        { id: 1, title: 'Assassins Creed Lightbox', categories: ['javascript'], img: 'LightboxAC.png', description: 'Lista de tareas programada con React' },
+   /*  const sections = [
+        { id: 1, title: 'Assassins Creed Lightbox', categories: ['javascript'], img: 'LightboxAC.png' },
         { id: 2, title: 'Colección de cards animadas', categories: ['javascript'], img: 'animated-card.png' },
         { id: 3, title: 'Blog con Astro', categories: ['astro'], img: 'blog-astro.png' },
         { id: 4, title: 'Juego con números', categories: ['javascript'], img: 'juegonumeros.png' },
         { id: 5, title: 'Lista de tareas', categories: ['react', 'javascript'], img: 'tasklist.png' },
         { id: 6, title: 'Web Days Gone', categories: ['javascript'], img: 'daysgoneweb.png' },
-    ];
+        { id: 7, title: 'Dragon Ball Quiz', categories: ['react'], img: 'dragon-ball-quiz.png', github: 'https://github.com/carlosmorenodev/dragonball-quiz', preview: 'https://carlosmorenodev.github.io/dragonball-quiz/' },
+    ]; */
 
     // Función para filtrar las secciones
     const filteredSections = sections.filter((section) => {
@@ -67,10 +70,10 @@ const Filtro2 = () => {
                                         </div>
 
                                         <div className={styles.projectCardButtons}>
-                                            <a href="">
+                                            <a href={section.preview} target='_blank'>
                                                 <FontAwesomeIcon icon={faEye} />
                                             </a>
-                                            <a href="">
+                                            <a href={section.github} target='_blank'>
                                                 <FontAwesomeIcon icon={faGithub} />
                                             </a>
                                         </div>
