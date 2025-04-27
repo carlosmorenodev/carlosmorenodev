@@ -55,4 +55,12 @@ export const sections = [
         github: 'https://github.com/carlosmorenodev/dragonball-quiz',
         preview: 'https://carlosmorenodev.github.io/dragonball-quiz/'
     },
+    {
+        id: 8,
+        title: 'Weather App',
+        categories: ['react'],
+        img: 'weather-app.png',
+        github: 'https://github.com/carlosmorenodev/weather-app',
+        preview: 'https://carlosmorenodev.github.io/weather-app/'
+    }
 ];
