@@ -33,7 +33,7 @@ const Filtro2 = () => {
 
                 <div className={styles.projectsButtons}>
                     <button onClick={() => setActiveFilter('all')}>All</button>
-                    <button onClick={() => setActiveFilter('javascript')}>Javascript</button>
+                    <button onClick={() => setActiveFilter('vanilla javascript')}>Vanilla JavaScript</button>
                     <button onClick={() => setActiveFilter('react')}>React</button>
                     <button onClick={() => setActiveFilter('astro')}>Astro</button>
                 </div>
