@@ -62,5 +62,13 @@ export const sections = [
         img: 'weather-app.png',
         github: 'https://github.com/carlosmorenodev/weather-app',
         preview: 'https://carlosmorenodev.github.io/weather-app/'
+    },
+    {
+        id: 9,
+        title: 'Juego del 21',
+        categories: ['Vanilla JavaScript'],
+        img: 'juego21.png',
+        github: 'https://github.com/carlosmorenodev/juego21',
+        preview: 'https://carlosmorenodev.github.io/juego21/'
     }
 ];
