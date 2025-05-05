@@ -2,7 +2,7 @@ export const sections = [
     {
         id: 1,
         title: 'Assassins Creed Lightbox',
-        categories: ['vanilla javaScript'],
+        categories: ['vanilla javascript'],
         img: 'LightboxAC.png',
         github: 'https://github.com/carlosmorenodev/lightbox-assassins-creed',
         preview: 'https://carlosmorenodev.github.io/lightbox-assassins-creed/'
@@ -10,7 +10,7 @@ export const sections = [
     {
         id: 2,
         title: 'Colección de cards animadas',
-        categories: ['vanilla javaScript'],
+        categories: ['vanilla javascript'],
         img: 'animated-card.png',
         github: 'https://github.com/carlosmorenodev/animated-cards',
         preview: 'https://carlosmorenodev.github.io/animated-cards/'
@@ -26,7 +26,7 @@ export const sections = [
     {
         id: 4,
         title: 'Juego con números',
-        categories: ['vanilla javaScript'],
+        categories: ['vanilla javascript'],
         img: 'juegonumeros.png',
         github: 'https://github.com/carlosmorenodev/minijuego-numeros',
         preview: 'https://carlosmorenodev.github.io/minijuego-numeros/'
@@ -42,7 +42,7 @@ export const sections = [
     {
         id: 6,
         title: 'Web Days Gone',
-        categories: ['vanilla javaScript' ],
+        categories: ['vanilla javascript' ],
         img: 'daysgoneweb.png',
         github: 'https://github.com/carlosmorenodev/daysgone-web',
         preview: 'https://carlosmorenodev.github.io/daysgone-web/'
@@ -66,7 +66,7 @@ export const sections = [
     {
         id: 9,
         title: 'Juego del 21',
-        categories: ['vanilla javaScript'],
+        categories: ['vanilla javascript'],
         img: 'juego21.png',
         github: 'https://github.com/carlosmorenodev/juego21',
         preview: 'https://carlosmorenodev.github.io/juego21/'
