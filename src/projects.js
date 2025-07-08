@@ -70,5 +70,13 @@ export const sections = [
         img: 'juego21.png',
         github: 'https://github.com/carlosmorenodev/juego21',
         preview: 'https://carlosmorenodev.github.io/juego21/'
-    }
+    },
+    {
+        id: 10,
+        title: 'Formulario con validación',
+        categories: ['react'],
+        img: 'formulario-react.png',
+        github: 'https://github.com/carlosmorenodev/form-react',
+        preview: 'https://carlosmorenodev.github.io/form-react/'
+    },
 ];
