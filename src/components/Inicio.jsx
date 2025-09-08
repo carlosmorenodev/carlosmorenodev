@@ -11,6 +11,7 @@ const skills = [
     'React',
     'Astro',
     'Bootstrap',
+    'Tailwind',
     'Git',
     'PHP',
     'MySQL',
