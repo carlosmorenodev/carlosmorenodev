@@ -9,6 +9,7 @@ const skills = [
     'CSS',
     'JavaScript',
     'React',
+    'Next.js',
     'Astro',
     'Bootstrap',
     'Tailwind',
