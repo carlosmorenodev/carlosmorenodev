@@ -21,10 +21,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next.js logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwind logo"  /> 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
@@ -55,10 +59,6 @@
 
 ###
 
-<p align="center">Visita mi portfolio: <a align="center" href="https://carlosmorenodev.github.io/carlosmorenodev/" target="_blank">carlosmorenodev.github.io/carlosmorenodev</a></p>  
-
-
-
-
+<p align="center">Visita mi portfolio: <a align="center" href="https://carlosmorenodev.github.io/carlosmorenodev/" target="_blank">carlosmorenodev.github.io/carlosmorenodev</a></p>
 
 ###
